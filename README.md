@@ -3,8 +3,7 @@
 Notebook: https://colab.research.google.com/github/phfcs/CienciadeDados/blob/main/IF697_Pre%C3%A7o_Combustivel2004_2021.ipynb
 
 
-Vídeo de apresentação: -------------------
-# Dados
+Vídeo de apresentação: https://drive.google.com/file/d/1hIPwW0Mvd4i8-YEHkSwr9jg0CpK_xgN8/view?usp=sharinghttps://drive.google.com/file/d/1hIPwW0Mvd4i8-YEHkSwr9jg0CpK_xgN8/view?usp=sharing
 
 O dataset escolhido foi o https://raw.githubusercontent.com/phfcs/CienciadeDados/main/2004-2021.tsv. 
 
