@@ -5,7 +5,7 @@ Notebook: https://colab.research.google.com/github/phfcs/CienciadeDados/blob/mai
 
 Vídeo de apresentação: 
 
-https://drive.google.com/file/d/1TtHGstkA3i0eSCxZyG_3AgUIePI4Ls-3/view?usp=sharing
+https://drive.google.com/file/d/1TtHGstkA3i0eSCxZyG_3AgUIePI4Ls-3/view?usp=sharing 
 
 
 https://youtu.be/XguEaW0NNEM
